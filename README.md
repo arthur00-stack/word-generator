@@ -40,4 +40,4 @@ Les autres classes (`Entry`, `EntryList`, `Node` et `EqString`) sont des structu
 
 ## Corpus et licence
 
-Les textes de *Madame Bovary* proviennent de la base de l'Association des Bibliophiles Universels (ABU). Le fichier `src/bovary/license.txt` contient la licence ABU et les informations de provenance. Conservez cette licence et les en-tetes des textes lors de toute redistribution du corpus. Aucune licence specifique au code Java n'est indiquee dans ce depot.
+Les textes de *Madame Bovary* proviennent de la base de l'Association des Bibliophiles Universels (ABU). Le fichier `src/bovary/license.txt` contient la licence ABU et les informations de provenance. Conservez cette licence et les en-tetes des textes lors de toute redistribution du corpus. Aucune licence specifique au code Java n'est indiquee dans ce depot.# word-generator
